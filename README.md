@@ -2,7 +2,7 @@
 I'm Ifeanyi Wisdom, a passionate Full-Stack Web Developer and Computer Science student at Delta State University. I build clean, performant, and user-centered web applications  from pixel-perfect front-ends to robust back-end systems.
 
 ## stacks
-* Html
+* Html,CSS,JS,PHP
 * Ui/UX Design
 * Front-End Development
 ## Projects
