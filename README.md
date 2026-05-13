@@ -1,10 +1,10 @@
 # Hi, i am Ifeanyi Wisdom
-i am a python and C developer interested in various web3 and moderation communities. At the moment i am currently into managing of Community servers and policies, i program in Python and C.
+I'm Ifeanyi Wisdom, a passionate Full-Stack Web Developer and Computer Science student at Delta State University. I build clean, performant, and user-centered web applications  from pixel-perfect front-ends to robust back-end systems.
 
 ## stacks
-* Python
-* Community moderation
-* Social media management
+* Html
+* Ui/UX Design
+* Front-End Development
 ## Projects
 * Simulation Program : simulation of fire animation in C
 * moderation portfolio
