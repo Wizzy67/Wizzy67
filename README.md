@@ -6,3 +6,4 @@ I'm Ifeanyi Wisdom, a passionate Full-Stack Web Developer and Computer Science s
 * Ui/UX Design
 * Front-End Development
 ## Projects
+wizzy-collections - a demo e-commerce website.
