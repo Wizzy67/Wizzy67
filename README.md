@@ -5,6 +5,8 @@ I'm Ifeanyi Wisdom, a passionate Full-Stack Web Developer and Computer Science g
 * Html,CSS,JS,React.js
 * Ui/UX Design
 * Front-End Development
+* prompt engineering
+* Anti-gravity
 ## Projects
 wizzy-collections - a demo e-commerce website.
 pathwise - an intelligent student career path and course advisory web system.
